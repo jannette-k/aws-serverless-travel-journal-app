@@ -1,0 +1,12 @@
+# React
+travel-journal/node_modules/
+travel-journal/build/
+travel-journal/.env
+
+
+travel-journal-backend/zips/
+
+.DS_Store
+*.log
+.vscode/
+.idea/
