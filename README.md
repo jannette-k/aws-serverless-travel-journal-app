@@ -1,23 +1,17 @@
-# ✈️ Serverless Travel Journal
+# Serverless Travel Journal
 
-> A full-stack serverless web application for documenting travel experiences built entirely on AWS using React, Cognito, API Gateway, Lambda, and DynamoDB.
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-![Serverless](https://img.shields.io/badge/Architecture-Serverless-green)
-![Auth](https://img.shields.io/badge/Auth-AWS%20Cognito-yellow)
+A full-stack serverless web application for documenting travel experiences built entirely on AWS using React, Cognito, API Gateway, Lambda, and DynamoDB.
 
 ---
 
 ## Architecture
 
-> **Serverless Travel Journal — AWS Cloud Architecture**
-![serverless travel journal ](screenshots/01-architecture-diagram)
+**Serverless Travel Journal — AWS Cloud Architecture**
+![serverless travel journal ](screenshots/01-architecture-diagram.png)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Service | Purpose | Why chosen |
 |---|---|---|
