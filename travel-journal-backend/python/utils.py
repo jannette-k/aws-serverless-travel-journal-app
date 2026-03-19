@@ -10,8 +10,7 @@ dynamodb = boto3.resource("dynamodb")
 table = dynamodb.Table("TripsTable")
 
 CORS_HEADERS = {
-    "Access-Control-Allow-Origin": "http://travel-journal-app-bucket.s3-website.eu-north-1.amazonaws.com",
-    # "Access-Control-Allow-Origin": "http://localhost:3000",
+    "Access-Control-Allow-Origin": "http://localhost:3000",
     "Access-Control-Allow-Headers": "Content-Type,Authorization",
     "Access-Control-Allow-Methods": "GET,POST,PUT,DELETE,OPTIONS"
 }
